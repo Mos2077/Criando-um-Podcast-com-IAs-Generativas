@@ -3,7 +3,7 @@ Criei um podcast sobre jogos e tecnologia
 
 ## Prompt: Crie um dialogo de um podcast sobre jogos:
 
-# Resultado: 
+# Exemplo: 
 🎙️ [Vinheta de abertura] 🎮 "Seja bem-vindo ao GameTalks, o seu podcast semanal sobre o universo dos games!"
 
 👤 Host 1 (Lucas): "Fala, galera! Eu sou o Lucas, e hoje vamos falar sobre os jogos que estão bombando em 2025, além de algumas pérolas escondidas que merecem sua atenção."
@@ -23,3 +23,4 @@ Criei um podcast sobre jogos e tecnologia
 🎙️ [Trilha de encerramento] "GameTalks volta na próxima semana com mais novidades, dicas e debates sobre o mundo dos games!"
 
  ## Diálogo gerado pelo Copilot
+ # Ferramentas de audio: Wondercraft.ai e Elevenlabs
